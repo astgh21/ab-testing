@@ -1,0 +1,54 @@
+2024-11-18 01:33:10,553 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 01:35:02,214 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 01:35:02,309 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 01:36:07,174 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 01:36:07,270 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 01:36:07,524 - BanditExperiments - INFO - Starting Comparison of Epsilon-Greedy and Thompson Sampling
+2024-11-18 01:37:05,925 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 01:37:06,121 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 01:37:06,522 - BanditExperiments - INFO - Starting Comparison of Epsilon-Greedy and Thompson Sampling
+2024-11-18 01:41:55,576 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 01:41:55,957 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 01:41:56,460 - BanditExperiments - INFO - Starting Comparison of Epsilon-Greedy and Thompson Sampling
+2024-11-18 01:50:28,671 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 01:50:29,021 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 01:50:29,557 - BanditExperiments - INFO - Starting Comparison of Epsilon-Greedy and Thompson Sampling
+2024-11-18 08:09:40,379 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 08:09:40,670 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 08:09:41,186 - BanditExperiments - INFO - Starting Comparison of Epsilon-Greedy and Thompson Sampling
+2024-11-18 08:11:58,160 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 08:11:58,466 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 08:11:58,949 - BanditExperiments - INFO - Starting Comparison of Epsilon-Greedy and Thompson Sampling
+2024-11-18 08:17:12,556 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 08:17:12,870 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 08:17:13,368 - BanditExperiments - INFO - Starting Comparison of Epsilon-Greedy and Thompson Sampling
+2024-11-18 08:23:36,863 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 08:23:37,176 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 08:23:37,730 - BanditExperiments - INFO - Starting Comparison of Epsilon-Greedy and Thompson Sampling
+2024-11-18 08:28:07,597 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 08:28:07,904 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 08:28:43,472 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 08:28:43,782 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 08:30:11,092 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 08:30:11,366 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 08:31:37,579 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 08:31:37,896 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 08:31:38,498 - BanditExperiments - INFO - Starting Comparison of Epsilon-Greedy and Thompson Sampling
+2024-11-18 08:32:40,643 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 08:32:40,970 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 08:32:41,503 - BanditExperiments - INFO - Starting Comparison of Epsilon-Greedy and Thompson Sampling
+2024-11-18 08:35:26,919 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 08:35:27,233 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 08:35:27,747 - BanditExperiments - INFO - Starting Comparison of Epsilon-Greedy and Thompson Sampling
+2024-11-18 08:59:49,909 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 08:59:50,318 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 08:59:50,845 - BanditExperiments - INFO - Starting Comparison of Epsilon-Greedy and Thompson Sampling
+2024-11-18 09:01:12,330 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 09:01:12,650 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 09:01:13,157 - BanditExperiments - INFO - Starting Comparison of Epsilon-Greedy and Thompson Sampling
+2024-11-18 09:05:00,391 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 09:05:00,671 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 09:05:01,218 - BanditExperiments - INFO - Starting Comparison of Epsilon-Greedy and Thompson Sampling
+2024-11-18 09:11:00,831 - BanditExperiments - INFO - Starting Epsilon-Greedy Experiment
+2024-11-18 09:11:01,149 - BanditExperiments - INFO - Starting Thompson Sampling Experiment
+2024-11-18 09:11:01,705 - BanditExperiments - INFO - Starting Comparison of Epsilon-Greedy and Thompson Sampling
